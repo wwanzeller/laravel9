@@ -18,7 +18,6 @@ rm -rf .git/
 
 Crie o Arquivo .env
 ```sh
-cd example-project/
 cp .env.example .env
 ```
 
